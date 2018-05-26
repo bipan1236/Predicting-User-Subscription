@@ -20,7 +20,7 @@ should have little or no multicollinearity.<br/>
 The dataset comes from the UCI Machine Learning repository, and it is related to direct marketing
 campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict
 whether the client will subscribe (1/0) to a term deposit (variable y). The dataset can be
-downloaded from here.
+downloaded from <a href="https://raw.githubusercontent.com/madmashup/targeted-marketing-predictive-engine/master/banking.csv">here</a>.
 
 ## Tasks
 1. Read the dataset and print the following information for analysis.
